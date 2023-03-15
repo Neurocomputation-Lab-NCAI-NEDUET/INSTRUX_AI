@@ -5,8 +5,7 @@
 
 **U_new(1).ipynb**
 
-This is the most recent file the dataset used in this file is "data_2023-01-30 09_22_13_2023-02-07 20_42_17 (1).csv", I've experimented multiple approaches with it, first I created a model with TimeSeriesGenerator but it didn't work and then I created window dataset.  
-
+This is the most recent file the dataset used in this file is "data_2023-01-30 09_22_13_2023-02-07 20_42_17 (1).csv". I've used LSTM in this notebook 
 
 
 **Instrux_data_visualization (1).ipynb**
